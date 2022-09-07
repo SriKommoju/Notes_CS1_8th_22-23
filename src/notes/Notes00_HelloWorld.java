@@ -6,4 +6,8 @@ public class Notes00_HelloWorld {
 	//These Be Ya Notes!!!
 	
 	
-}
+}System.out.print("Hello world!")
+
+
+
+
